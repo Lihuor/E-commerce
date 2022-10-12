@@ -1,5 +1,7 @@
 This is an E-commerce using Next.js for building a beautiful interface. For Content creater, I use Sanity as a back-end to develop the product details including images uploading and product creation. For Payment Process Platform, I use Stripe which is one of the most suitable and convenience payment plaforms. And finally, I use Vercel for application deployment.
 
+<img width="1712" alt="Screen Shot 2022-10-13 at 9 49 21 am" src="https://user-images.githubusercontent.com/64337470/195462393-ea5348e7-58d6-4391-9e45-49105a7ba17e.png">
+
 ## Getting Started
 
 First, run the development server:
